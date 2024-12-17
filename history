@@ -1,0 +1,215 @@
+  sudo apt update
+    2  sudo apt upgrade
+    3  ifconfig
+    4  sudo apt install net-tools
+    5  gcc --version
+    6  sudo apt install gcc
+    7  sudo apt install g++
+    8  gcc --version
+    9  g++ version
+   10  g++ --version
+   11  java -version
+   12  java --version
+   13  sudo apt install openjdk-8-jre-headless
+   14  jaavc
+   15  sudo apt install openjdk-8-jdk-headless
+   16  javac
+   17  java -version
+   18  clear
+   19  gedit sample.c
+   20  gcc sample.c
+   21  ./a.out
+   22  gedit swap.c
+   23  gcc swap.c
+   24  ./a.out
+   25  gedit integer.cpp
+   26  g++ integer.cpp
+   27  ./a.out
+   28  gedit HellWorld.java
+   29  javac HelloWorld.java
+   30  ls
+   31  javac HellWorld.java
+   32  java HellWorld
+   33  java HellWorld.java
+   34  gedit GFG.java
+   35  javac GFG.java
+   36  java GFG.java
+   37  java GFG
+   38  javac HellWorld.java
+   39  java HellWorld
+   40  javac HelloWorld.java
+   41  java HelloWorld
+   42  gedit HelloWorld.java
+   43  javac HelloWorld.java
+   44  java Helloworld
+   45  java Helloworld.java
+   46  javac
+   47  java -version
+   48  javac GFG.java
+   49  java GFG
+   50  cd Downloads/
+   51  ls
+   52  javac DigitalClock.java
+   53  appletviewer DigitalClock
+   54  sudo apt install openjdk-8-jdk
+   55  javac DigitalClock.java
+   56  appletviewer DigitalClock
+   57  javac DigitalClock.java
+   58  cd Downloads/
+   59  javac DigitalClock.java
+   60  appletviewer DigitalClock
+   61  appletviewer DigitalClock.java
+   62  javac GraphicsDemo.java
+   63  appletviewer GraphicsDemo.java
+   64  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   65  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb~
+   66  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   67  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   68  ifconfig
+   69  su administrator
+   70  sudo bash
+   71  vim
+   72  sudo apt install vim
+   73  yt
+   74  vim
+   75  sudo apt install vim
+   76  vim
+   77  sudo apt install vim
+   78  sudo dpkg --configure -a
+   79  touch test.txt
+   80  vim test.txt
+   81  sudo apt install vim
+   82  touch test.txt
+   83  vim test.txt
+   84  vim
+   85  ge
+   86  grep ''
+   87  grep "yuva" file.txt
+   88  cat file.txt
+   89  cd file
+   90  cat file.txt
+   91  cat > file.txt
+   92  grep "gow" file.txt
+   93  grep -i "FRIdAy" file.txt
+   94  grep -e "a" file.txt
+   95  grep "*f" file.txt
+   96  grep "*r" file.txt
+   97  grep "r*" file.txt
+   98  grep "y." file.txt
+   99  grep "y^" file.txt
+  100  grep "^y" file.txt
+  101  grep "j$" file.txt
+  102  cat file.txt |wc-1
+  103  cat file.txt | wc-l
+  104  cat file.txt | wc -l
+  105  grep "yuva" file.txt | wc -l
+  106  cd /
+  107  cd home
+  108  cd administractor
+  109  cd administrator
+  110  cd clond
+  111  cd clound
+  112  ls
+  113  cd Desktop
+  114  cd clound
+  115  mkdir clound
+  116  cd clound
+  117  d /
+  118  cat /etc/passwd
+  119  sudo chown
+  120  cd /
+  121  sudo useradd yuva
+  122  su yuva
+  123  sudo passwd yuva
+  124  cat /etc/passwd
+  125  su yuva
+  126  cd /
+  127  ls
+  128  cd home
+  129  ls
+  130  cd administrator
+  131  ls
+  132  cd Desktop
+  133  touch file.txt
+  134  sudo userdel yuva
+  135  sudo userdel -f yuva
+  136  cat /etc/passwd
+  137  nano script.nh
+  138  nano script.sh
+  139  ./ script.sh
+  140  nano script.sh
+  141  cd /
+  142  ls
+  143  cd administrator
+  144  cd home
+  145  cd administrstore
+  146  ls    
+  147  cd administrator 
+  148  ls 
+  149  cd Desktop
+  150  ls 
+  151  clear
+  152  ps
+  153  q
+  154  clear
+  155  ps
+  156  top
+  157  clear
+  158  nano script.sh
+  159  cd /
+  160  ls
+  161  cd home
+  162  cd Desktop
+  163  cd ..
+  164  ls
+  165  cd administrator
+  166  cd /
+  167  ls
+  168  cd home
+  169  ls
+  170  cd administrator
+  171  ls
+  172  cd Desktop
+  173  ls
+  174  mkdir jack
+  175  cd jack
+  176  hamsa prathiksha
+  177  history
+  178  cd /
+  179  ls
+  180  cd home
+  181  ls
+  182  cd administrator
+  183  ls
+  184  cd Desktop
+  185  mkdir cloud computing project 1
+  186  mkdir cloud computing project 1.txt
+  187  mkdir project1
+  188  history
+  189  cd /
+  190  ls
+  191  pwd
+  192  top
+  193  history
+  194  clear
+  195  histiry
+  196  history
+  197  cd Desktop
+  198  cd jsack
+  199  cd administrator
+  200  ls
+  201  cd home
+  202  ls
+  203  cd /
+  204  cd home
+  205  history
+  206  ps
+  207  nano script.sh
+  208  vim
+  209  ls
+  210  mkdir bheem
+  211  history
+  212  mkdir tvk
+  213  clear
+  214  history
+
